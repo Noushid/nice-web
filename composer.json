@@ -1,0 +1,13 @@
+{
+    "name": "classicinternational/web",
+    "description": "The admin panel for classic international website",
+    "authors": [
+        {
+            "name": "psybo technologies",
+            "email": "psybotechnologies@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.6"
+    }
+}
